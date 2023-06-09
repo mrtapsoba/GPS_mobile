@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786278038730",
+    "project_id": "gps-mobile-e85f7",
+    "storage_bucket": "gps-mobile-e85f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786278038730:android:3e71bbec7bb0c3a51d0833",
+        "android_client_info": {
+          "package_name": "com.intellectusbf.gpsmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786278038730-0idg2gi8qlpo3t4m4da93ovjbnjpcf5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intellectusbf.gpsmobile",
+            "certificate_hash": "74843054bd1b978ef7dba46501bd62b3273d9a6f"
+          }
+        },
+        {
+          "client_id": "786278038730-ee5vlbfd9vtihllv9auqp5idus63d6qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkPGJEvyk_BKhonrDAybXG8B9QDeNAvMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786278038730-ee5vlbfd9vtihllv9auqp5idus63d6qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
